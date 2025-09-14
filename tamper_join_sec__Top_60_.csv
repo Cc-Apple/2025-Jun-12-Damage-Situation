@@ -1,0 +1,39 @@
+cluster_kind,anchor_sec,ts_iso,event_name,bug_type,bundleId,score,src_file
+same_sec,2025-06-12 11:25:11+07:00,2025-06-12 11:25:11+0700,bug_type_event,298,,3,/mnt/data/JetsamEvent-2025-06-12-112511.docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,bug_type_event,225,,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.cebbank.ebank,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.hp.printer.control,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.czzhao.binance,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.apple.reminders,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.google.Maps,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.google.ios.youtube,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.apple.journal,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.bybit.app,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.apple.mobilecal,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.paygo24.ababank,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,xyz.be.customer,3,/mnt/data/bug_type225-2025-06-12 120519 .docx
+same_sec,2025-06-13 11:31:34+07:00,2025-06-13 11:31:34+0700,bug_type_event,298,,3,/mnt/data/KABUKI_INV_2025-06-12_OUT/2025-06-12-Analysis-Detalis-Python_EXTRACT/2025-06-12-Analysis-Detalis-Python.docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,bug_type_event,225,,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.cebbank.ebank,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.hp.printer.control,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.czzhao.binance,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.apple.reminders,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.google.Maps,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.google.ios.youtube,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.apple.journal,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.bybit.app,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.apple.mobilecal,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.paygo24.ababank,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_60s,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,xyz.be.customer,2,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,bug_type_event,225,,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.cebbank.ebank,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.hp.printer.control,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.czzhao.binance,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.apple.reminders,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.google.Maps,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.google.ios.youtube,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.apple.journal,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.bybit.app,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,, com.apple.mobilecal,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,com.paygo24.ababank,1,/mnt/data/bug_type225-2025-06-12 120519 .docx
+plus_minus_5min,2025-06-12 12:05:19+07:00,2025-06-12 12:05:19+0700,xp_amp_app_usage_dnu,,xyz.be.customer,1,/mnt/data/bug_type225-2025-06-12 120519 .docx

@@ -1,0 +1,186 @@
+[
+  {
+    "date":"2025-06-11",
+    "time":"12:13",
+    "device":"iPhone 11 Pro",
+    "method":"電話",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102619135522"
+  },
+  {
+    "date":"2025-06-11",
+    "time":"12:18",
+    "device":"iPhone 11 Pro",
+    "method":"電話",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102619138299"
+  },
+  {
+    "date":"2025-06-11",
+    "time":"12:27",
+    "device":"iPhone 11 Pro",
+    "method":"電話",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102619142633"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"12:04",
+    "device":"iPhone 11 Pro",
+    "method":"電話",
+    "content":"App Store アカウントのセキュリティー",
+    "case_id":"102620929393"
+  },
+  {
+    "date":"2025-06-09",
+    "time":"13:42",
+    "device":"iPhone 12-Ghost",
+    "method":"メール(Appチャット想定)",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102617382017"
+  },
+  {
+    "date":"2025-06-09",
+    "time":"13:44",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"「遠隔操作を受け続けている」と訴え",
+    "case_id":"102617382017"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"10:16",
+    "device":"iPhone 12-Ghost",
+    "method":"メール",
+    "content":"Bug_Type:202 KnowledgeConstructiond 添付",
+    "case_id":"102617386522"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"16:08",
+    "device":"iPhone 12-Ghost",
+    "method":"メール",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102621062450"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"19:19",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102621215675"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"19:20",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102621216689"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"15:55",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102621068450"
+  },
+  {
+    "date":"2025-06-13",
+    "time":"19:24",
+    "device":"iPhone 12-Ghost",
+    "method":"電話",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102621068450"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"07:38",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102624942440"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"07:53",
+    "device":"iPhone 12-Ghost",
+    "method":"電話",
+    "content":"macOS セキュリティー問い合わせ",
+    "case_id":"102624950562"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"07:54",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"パスコードを忘れた \/ デバイスを使用できない",
+    "case_id":"102624951006"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"08:14",
+    "device":"iPhone 12-Ghost",
+    "method":"電話",
+    "content":"パスコードを忘れた \/ デバイスを使用できない",
+    "case_id":"102624951006"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"08:36",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"デバイスがフリーズ \/ 反応しない",
+    "case_id":"102624975831"
+  },
+  {
+    "date":"2025-06-20",
+    "time":"01:48",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"iCloud \/ FaceTime \/ Message",
+    "case_id":"102626471548"
+  },
+  {
+    "date":"2025-06-20",
+    "time":"02:45",
+    "device":"iPhone 12-Ghost",
+    "method":"チャット",
+    "content":"セキュリティーの問題 \/ アカウントの不正利用",
+    "case_id":"102626507104"
+  },
+  {
+    "date":"2025-06-15",
+    "time":"18:27",
+    "device":"iPhone 15 Pro-Ghost",
+    "method":"チャット",
+    "content":"通知",
+    "case_id":"102622778376"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"05:58",
+    "device":"iPhone 15 Pro-Ghost",
+    "method":"チャット",
+    "content":"ファミリー共有",
+    "case_id":"102624890601"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"06:03",
+    "device":"iPhone 15 Pro-Ghost",
+    "method":"チャット",
+    "content":"キーチェーン",
+    "case_id":"102624893168"
+  },
+  {
+    "date":"2025-06-18",
+    "time":"10:38",
+    "device":"iPhone 15 Pro-Ghost",
+    "method":"チャット",
+    "content":"不審なメール \/ SMS \/ 電話（フィッシング）",
+    "case_id":"102625046293"
+  }
+]

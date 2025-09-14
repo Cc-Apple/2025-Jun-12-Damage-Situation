@@ -1,0 +1,46 @@
+[
+  {
+    "category":"BUG_TYPES",
+    "hits":108
+  },
+  {
+    "category":"FLAME",
+    "hits":58
+  },
+  {
+    "category":"VENDORS",
+    "hits":46
+  },
+  {
+    "category":"LOG\/SYSTEM",
+    "hits":29
+  },
+  {
+    "category":"APPS\/VOIP\/FIN\/SNS",
+    "hits":15
+  },
+  {
+    "category":"EXT\/UI JACK",
+    "hits":9
+  },
+  {
+    "category":"JOURNAL\/SHORTCUT\/CALENDAR",
+    "hits":2
+  },
+  {
+    "category":"COMM\/ENERGY",
+    "hits":1
+  },
+  {
+    "category":"EXCLUDE",
+    "hits":1
+  },
+  {
+    "category":"MDM\/PROFILE",
+    "hits":0
+  },
+  {
+    "category":"VULN\/CHIP\/FW",
+    "hits":0
+  }
+]

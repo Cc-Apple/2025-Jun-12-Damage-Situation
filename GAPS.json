@@ -1,0 +1,32 @@
+[
+  {
+    "missing_category":"MDM\/PROFILE"
+  },
+  {
+    "missing_category":"LOG\/SYSTEM"
+  },
+  {
+    "missing_category":"BUG_TYPES"
+  },
+  {
+    "missing_category":"COMM\/ENERGY"
+  },
+  {
+    "missing_category":"APPS\/VOIP\/FIN\/SNS"
+  },
+  {
+    "missing_category":"JOURNAL\/SHORTCUT\/CALENDAR"
+  },
+  {
+    "missing_category":"EXT\/UI JACK"
+  },
+  {
+    "missing_category":"VENDORS"
+  },
+  {
+    "missing_category":"VULN\/CHIP\/FW"
+  },
+  {
+    "missing_category":"FLAME"
+  }
+]
